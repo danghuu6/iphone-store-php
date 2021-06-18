@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding:0;
+}
+#wrap {
+	width: 600px;
+	margin: auto;
+	padding-top: 50px;
+}
+#title {
+	text-align: center;
+	padding: 10px;
+}
+#title h2 {
+	color: Red;
+}
+#content{
+	border: 2px solid LightGray;
+	width: 510px;
+	padding: 10px;
+	margin: auto;
+}
+p {
+	text-align: center;
+}
+#content table {
+width: 500px;
+	margin: auto;
+	padding: 10px;
+	background-color: LightGray;
+}
+td {
+	padding: 15px;
+}
+.but {
+	padding: 5px;
+}

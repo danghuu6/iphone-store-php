@@ -1,0 +1,111 @@
+body {
+    background-image: url("./pic/bg.jpg");
+    margin: 0;
+    padding: 0;
+}
+#frame-top {
+    height: 65px;
+    background-color: #D3DC1F;
+}
+#logo {
+    width: 20%;
+    height: 65px;
+    float: left;
+}
+#logo img {
+    
+    height: 65px;
+    margin-left: 100px;
+}
+#A {
+    float: right;
+    width: 80%;
+    height: 65px;
+}
+#B {
+    float: left;
+    width: 80%;
+    height: 65px;
+}
+#C {
+    text-align: center;
+    float: right;
+    width: 20%;
+    height: 65px;
+}
+#C a {
+    text-decoration: none;
+    color: black;
+}
+#C a:hover{
+    color: white;
+}
+#frame-sale {
+    height: 250px;
+    border: 10px solid rgb(230, 217, 217);
+}
+#sale-left {
+    float: left;
+    width: 60%;
+    height: 250px;
+    margin-left: 50px;
+    background-color: white;
+}
+.slide-sale {
+    height: 245px;
+    border: 5px solid #D3DC1F;
+}
+.slide-sale img {
+    width: 100%;
+    height: 245px;
+}
+#sale-right img {
+    float: right;
+    width: 35%;
+    height: 250px;
+    margin-right: 10px;
+    background-color: aliceblue;
+}
+#frame-menu {
+    height: 40px;
+    background-color: #D3DC1F;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 0 0 15px 15px;
+}
+#content-menu a{
+    text-decoration: none;
+    text-align: center;
+}
+.frame-sp {
+    height: 400px;
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.frame-sp img {
+    float: left;
+    width: 468px;
+    height: 390px;
+    border: 5px solid #D3DC1F;
+}
+.footer {
+    height: 200px;
+    text-align: center;
+    background-color: rgb(133, 128, 128);
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 60px;
+}
+.footer p {
+    margin-top: 50px;
+}
+.sldie-text{
+    color: white;
+    text-align: center;
+}

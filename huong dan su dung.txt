@@ -1,0 +1,4 @@
+Đăng nhập với tài khoản cá nhân để vào xem sản phẩm shop.
+
+Tài khoản admin sẽ được cấp: tk: admin, mk: 12345
+Đăng nhâp tài khoản admin để vào trang quản lý cửa hàng.
